@@ -1,2 +1,1 @@
-# EspriZza
-bon courage !
+LOCAL
